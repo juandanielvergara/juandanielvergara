@@ -1,0 +1,14 @@
+# Antigravity - Teacher Solutions Shield
+_Soluciones_Privadas/
+
+# SQLite Databases
+# 🔒 Por seguridad, ignoramos las bases de datos por defecto.
+*.db
+
+# ✅ EXCEPCIÓN: Permitimos las bases de datos de los alumnos. 
+# Pueden incluir su nombre (ej: Novamarket_S07_Anyi.db)
+!**/*Base_Datos_S06*.db
+!**/*Novamarket_S07*.db
+
+# OS Files
+.DS_Store
