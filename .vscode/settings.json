@@ -35,6 +35,12 @@
             "driver": "SQLite",
             "name": "conexionsesion6",
             "database": "${workspaceFolder:SQL_NovaMarket-main}/01_Sesion_06/01_Base_Datos_S06_juandaniel.db.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "conexionsesion7",
+            "database": "${workspaceFolder:SQL_NovaMarket-main}/02_Sesion_07/Novamarket_S07.db"
         }
     ],
     "sqltools.useNodeRuntime": true
